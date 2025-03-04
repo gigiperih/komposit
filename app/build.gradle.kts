@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "io.gigiperih.komposit"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "io.gigiperih.komposit"
